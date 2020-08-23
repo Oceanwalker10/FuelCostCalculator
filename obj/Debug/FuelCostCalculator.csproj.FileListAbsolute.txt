@@ -1,0 +1,13 @@
+D:\htdocs\c#\FuelCostCalculator\bin\Debug\FuelCostCalculator.exe.config
+D:\htdocs\c#\FuelCostCalculator\bin\Debug\FuelCostCalculator.exe
+D:\htdocs\c#\FuelCostCalculator\bin\Debug\FuelCostCalculator.pdb
+D:\htdocs\c#\FuelCostCalculator\obj\Debug\FuelCostCalculator.csprojAssemblyReference.cache
+D:\htdocs\c#\FuelCostCalculator\obj\Debug\FuelCostCalculator.csproj.CoreCompileInputs.cache
+D:\htdocs\c#\FuelCostCalculator\obj\Debug\FuelCostCalculator.exe
+D:\htdocs\c#\FuelCostCalculator\obj\Debug\FuelCostCalculator.pdb
+D:\Code\C#\FuelCostCalculator\bin\Debug\FuelCostCalculator.exe.config
+D:\Code\C#\FuelCostCalculator\bin\Debug\FuelCostCalculator.exe
+D:\Code\C#\FuelCostCalculator\bin\Debug\FuelCostCalculator.pdb
+D:\Code\C#\FuelCostCalculator\obj\Debug\FuelCostCalculator.csprojAssemblyReference.cache
+D:\Code\C#\FuelCostCalculator\obj\Debug\FuelCostCalculator.exe
+D:\Code\C#\FuelCostCalculator\obj\Debug\FuelCostCalculator.pdb
